@@ -17,7 +17,7 @@ Create a simple messaging application with the following features:
 
 ## Acceptance criteria
 
-REST endpoints should display a recipients' inbox as follows:
+REST endpoints should display a recipients' inbox as follows in JSON format:
 
 | SENDER    | SUBJECT                | RECEIVED         | UNREAD  |
 | --------- | ---------------------- | ---------------- | :-----: |
@@ -44,5 +44,5 @@ Start with a class the following structure:
 
 You are not allowed to add any other public method to this class.
 
-**NOTE:** In order to keep the exercise simple, use _int_ for money and _String_ for dates.
-Also, you can ignore the formatting of the statement (spaces between pipes and words, etc).
+**NOTE:** In order to keep the exercise simple, use _String_ for dates.
+Also, the table should be in JSON format
