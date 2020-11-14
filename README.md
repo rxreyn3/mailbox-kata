@@ -10,7 +10,7 @@ Test application from outside, identifying side effects
 Create a simple messaging application with the following features:
 
      - Send a direct message to a recipient
-     - Sent a message to a segment of recipients
+     - Send a message to a segment of recipients
      - Recipients should see their direct and segment messages in a normalized 
      format
      - Enable message states: unread, read, deleted
