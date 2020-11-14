@@ -6,8 +6,7 @@ Outside-In TDD with Acceptance Tests
 Learn and practice the double loop of TDD
 Test application from outside, identifying side effects
 
-### Problem description - Bank kata
-
+### Problem description - Mailbox Kata
 Create a simple messaging application with the following features:
 
      - Send a direct message to a recipient
